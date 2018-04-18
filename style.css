@@ -1,0 +1,83 @@
+.page-title {
+	font-size: 70px;
+	font-family: 'Playfair Display', serif;
+	text-align: center;
+	margin-bottom: 0px;
+	font-weight: 100; 
+}
+.subtitle {
+	font-size: 15px;
+	font-family: 'Playfair Display', serif;
+	text-align: center; 
+	margin-bottom: 0px;
+}
+.menu-links li {
+	display: inline-block;
+	margin: 0 10px; 
+	margin-bottom: 125px; 
+}
+.menu-links {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+a {
+	color: #FF2B6A;
+	text-decoration: none;
+	font-family: 'Playfair Display', serif;
+}
+a:hover {
+	color: #880000;
+}
+
+.post-title {
+	font-size: 25px;
+	font-family: 'Playfair Display', serif;
+	font-weight: 800;  	
+}
+.page-wrapper {
+	padding: 0 50px;
+	max-width: 750px; 
+	margin: 0 auto; 
+}
+p {
+	font-family: 'Playfair Display', serif;
+	font-size: 15px; 
+}
+img {
+	max-height: 700px; 
+	max-width: 100%; 
+	min-width: 400px; 
+}
+figure {
+	left: 100px; 
+}
+figcaption {
+	font-family: 'Playfair Display', serif;
+	font-size: 13px;
+}
+#slideshow { 
+    margin-bottom: 200px auto; 
+    position: relative; 
+    width: 300px; 
+    height: 300px;  
+    padding: 100px;  
+}
+
+#slideshow > figure { 
+    position: absolute; 
+    top: 10px; 
+    left: 10px; 
+    right: 10px; 
+    bottom: 10px;
+    height: 200px;  
+}
+
+footer {
+	margin-top: 30px;
+	margin-bottom: 20px;  
+	font-size: 12px; 
+	text-align: center;
+	font-family: 'Playfair Display', serif;
+
+}
